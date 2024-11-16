@@ -1,1 +1,12 @@
 opencv-python
+streamlit==1.25.0
+opencv-python-headless==4.8.0.74
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.32.0
+ultralytics==8.0.133
+Pillow==10.0.1
+numpy==1.25.2
+deep-translator==1.10.1
+scipy==1.11.3
+
